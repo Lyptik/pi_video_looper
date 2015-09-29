@@ -6,7 +6,7 @@
 
 #sudo remountrw
 
-sudo /opt/vc/tvservice -d ~/edid.dat
+sudo /opt/vc/bin/tvservice -d ~/edid.dat
 
 # If you want to force edid you should do that :
 
